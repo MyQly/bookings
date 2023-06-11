@@ -12,6 +12,7 @@ This is the repostory for a bookings and reservations project.
 # How To Run
 
 Pull this repository to a directory of your choice.
+
 Run the following in the terminal:
 
 `go run ./cmd/web/`
