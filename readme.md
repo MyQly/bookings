@@ -7,3 +7,11 @@ This is the repostory for a bookings and reservations project.
     - [chi](https://github.com/go-chi/chi) - for routing
     - [nosurf](https://github.com/justinas/nosurf) - for csrf protection
     - [scs](https://github.com/alexedwards/scs) - for session management
+
+
+# How To Run
+
+Pull this repository to a directory of your choice.
+Run the following in the terminal:
+
+`go run ./cmd/web/`
